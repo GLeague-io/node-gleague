@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/GLeague-io/node-gleague#readme",
   "dependencies": {
+    "http": "0.0.0",
     "socket.io": "^2.0.4"
   }
 }
