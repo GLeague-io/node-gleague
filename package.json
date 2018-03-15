@@ -1,0 +1,29 @@
+{
+  "name": "gleague",
+  "version": "0.0.1",
+  "description": "Gleague websocket core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLeague-io/node-gleague.git"
+  },
+  "keywords": [
+    "gleague",
+    "nodejs",
+    "websocket",
+    "csgo",
+    "matchmaking"
+  ],
+  "author": "Stanislav 'glmn' Gelman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GLeague-io/node-gleague/issues"
+  },
+  "homepage": "https://github.com/GLeague-io/node-gleague#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  }
+}
